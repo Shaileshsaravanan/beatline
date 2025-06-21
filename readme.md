@@ -30,7 +30,7 @@ python3 main.py --audio path/to/file.mp3
 ⸻
 
 ## Demo
-![Demo](demo.mov)
+![Demo](demo.gif)
 
 ⸻
 
