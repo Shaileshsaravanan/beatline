@@ -1,4 +1,7 @@
 {
     "type": "scriptorium",
-    "preview": "gif"
+    "preview": "gif",
+    "desc": "terminal music visualizer",
+    "mainColour": "#7B4B2A",
+    "subColour": "#D1A68C"
 }
